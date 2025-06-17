@@ -27,7 +27,7 @@ This project performs sentiment analysis on Twitter data using the TextBlob libr
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/twitter-sentiment-analysis.git
+git clone (https://github.com/Shruti-Bodkhe/PRODIGY_DS_04-twitter-sentiment-analysis)
 cd twitter-sentiment-analysis
 
 ### 2.install dependencies
